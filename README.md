@@ -4,6 +4,8 @@
 
 This notebook performs EDA on the `creditcard.csv` dataset to understand the data, clean it, and explore patterns related to fraud.
 
+AI MODEL: GPT-5 Mini
+
 **Key Steps:**
 
 1. **Load Data:** Imported libraries, loaded the dataset, and checked its structure.
